@@ -18,7 +18,7 @@ namespace BankApp
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("******************");
-                Console.WriteLine("*BANKA UYGULAMASI*");
+                Console.WriteLine("*BANKA UYGULAMAS*");
                 Console.WriteLine("******************");
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("\n1: Kayıt Ol");
